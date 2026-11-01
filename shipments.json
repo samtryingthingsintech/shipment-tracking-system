@@ -1,0 +1,162 @@
+[
+    {
+        "AWB": "A1001",
+        "Client": "Amazon",
+        "Pincode": 400001,
+        "Boxes": 3,
+        "WeightKg": 12.5,
+        "Status": "Delivered"
+    },
+    {
+        "AWB": "A1002",
+        "Client": "Flipkart",
+        "Pincode": 560001,
+        "Boxes": 2,
+        "WeightKg": 8.2,
+        "Status": "Delivered"
+    },
+    {
+        "AWB": "A1003",
+        "Client": "Myntra",
+        "Pincode": 110001,
+        "Boxes": 5,
+        "WeightKg": 21.4,
+        "Status": "Delivered"
+    },
+    {
+        "AWB": "A1004",
+        "Client": "Amazon",
+        "Pincode": 700001,
+        "Boxes": 1,
+        "WeightKg": 4.5,
+        "Status": "Delayed"
+    },
+    {
+        "AWB": "A1005",
+        "Client": "Nykaa",
+        "Pincode": 400001,
+        "Boxes": 4,
+        "WeightKg": 16.8,
+        "Status": "Delivered"
+    },
+    {
+        "AWB": "A1006",
+        "Client": "Flipkart",
+        "Pincode": 110001,
+        "Boxes": 2,
+        "WeightKg": 9.1,
+        "Status": "Delivered"
+    },
+    {
+        "AWB": "A1007",
+        "Client": "Amazon",
+        "Pincode": 560001,
+        "Boxes": 6,
+        "WeightKg": 27.3,
+        "Status": "Pending"
+    },
+    {
+        "AWB": "A1008",
+        "Client": "Myntra",
+        "Pincode": 400001,
+        "Boxes": 3,
+        "WeightKg": 13.7,
+        "Status": "Delivered"
+    },
+    {
+        "AWB": "A1009",
+        "Client": "Nykaa",
+        "Pincode": 700001,
+        "Boxes": 2,
+        "WeightKg": 7.8,
+        "Status": "Delayed"
+    },
+    {
+        "AWB": "A1010",
+        "Client": "Amazon",
+        "Pincode": 110001,
+        "Boxes": 4,
+        "WeightKg": 18.6,
+        "Status": "Delivered"
+    },
+    {
+        "AWB": "A1011",
+        "Client": "Flipkart",
+        "Pincode": 400001,
+        "Boxes": 1,
+        "WeightKg": 3.9,
+        "Status": "Pending"
+    },
+    {
+        "AWB": "A1012",
+        "Client": "Myntra",
+        "Pincode": 560001,
+        "Boxes": 5,
+        "WeightKg": 22.1,
+        "Status": "Delivered"
+    },
+    {
+        "AWB": "A1013",
+        "Client": "Amazon",
+        "Pincode": 700001,
+        "Boxes": 2,
+        "WeightKg": 8.7,
+        "Status": "Delayed"
+    },
+    {
+        "AWB": "A1014",
+        "Client": "Nykaa",
+        "Pincode": 110001,
+        "Boxes": 3,
+        "WeightKg": 14.2,
+        "Status": "Delivered"
+    },
+    {
+        "AWB": "A1015",
+        "Client": "Flipkart",
+        "Pincode": 560001,
+        "Boxes": 4,
+        "WeightKg": 17.5,
+        "Status": "Delivered"
+    },
+    {
+        "AWB": "A1016",
+        "Client": "Amazon",
+        "Pincode": 400001,
+        "Boxes": 2,
+        "WeightKg": 9.6,
+        "Status": "Pending"
+    },
+    {
+        "AWB": "A1017",
+        "Client": "Myntra",
+        "Pincode": 700001,
+        "Boxes": 6,
+        "WeightKg": 28.4,
+        "Status": "Delivered"
+    },
+    {
+        "AWB": "A1018",
+        "Client": "Nykaa",
+        "Pincode": 400001,
+        "Boxes": 1,
+        "WeightKg": 4.1,
+        "Status": "Delayed"
+    },
+    {
+        "AWB": "A1019",
+        "Client": "Flipkart",
+        "Pincode": 110001,
+        "Boxes": 3,
+        "WeightKg": 11.3,
+        "Status": "Delivered"
+    },
+    {
+        "AWB": "A1020",
+        "Client": "Amazon",
+        "Pincode": 560001,
+        "Boxes": 5,
+        "WeightKg": 23.7,
+        "Status": "Delivered"
+    }
+]
